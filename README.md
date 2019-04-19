@@ -43,3 +43,46 @@ rawdata_CID-BDX_PROC-noxor_1p0V_90p0C_.bin
 rawdata_CID-BDX_PROC-noxor_1p0V_95p0C_.bin
 ```
 
+This data is valid for the following products:
+
+```
+Intel® Xeon® Processor E5-2673 v4
+Intel® Xeon® Processor E5-2676 v4
+Intel® Xeon® Processor E5-2678 v4
+Intel® Xeon® Processor E5-2679 v4
+Intel® Xeon® Processor E5-2682 v4
+Intel® Xeon® Processor E5-2683 v4
+Intel® Xeon® Processor E5-2686 v4
+Intel® Xeon® Processor E5-2688 v4
+Intel® Xeon® Processor E5-2689A v4
+Intel® Xeon® Processor E5-2689 v4
+Intel® Xeon® Processor E5-2695 v4
+Intel® Xeon® Processor E5-2696 v4
+Intel® Xeon® Processor E5-2697A v4
+Intel® Xeon® Processor E5-2697R v4
+Intel® Xeon® Processor E5-2697 v4
+Intel® Xeon® Processor E5-2698B v4
+Intel® Xeon® Processor E5-2698R v4
+Intel® Xeon® Processor E5-2698 v4
+Intel® Xeon® Processor E5-2699A v4
+Intel® Xeon® Processor E5-2699C v4
+Intel® Xeon® Processor E5-2699R v4
+Intel® Xeon® Processor E5-2699 v4
+Intel® Xeon® Processor E5-4660 v4
+Intel® Xeon® Processor E5-4667 v4
+Intel® Xeon® Processor E5-4669 v4
+Intel® Xeon® Processor E7-4809 v4
+Intel® Xeon® Processor E7-4820 v4
+Intel® Xeon® Processor E7-4830 v4
+Intel® Xeon® Processor E7-4850 v4
+Intel® Xeon® Processor E7-8855 v4
+Intel® Xeon® Processor E7-8860 v4
+Intel® Xeon® Processor E7-8867 v4
+Intel® Xeon® Processor E7-8870 v4
+Intel® Xeon® Processor E7-8880 v4
+Intel® Xeon® Processor E7-8890 v4
+Intel® Xeon® Processor E7-8891 v4
+Intel® Xeon® Processor E7-8893 v4
+Intel® Xeon® Processor E7-8894 v4
+Intel® Xeon® Processor E7-8895 v4
+```
