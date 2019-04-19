@@ -10,7 +10,7 @@ The filenames are formatted to be parsed by djent with the -p option to extract 
 
 Two CSV files are included with the djent results for 1 bit and 8 bit symbols.
 
-Two text files are included with the SP800-90B Non IID test results for 1 and 8 bit symbols.
+Six text files are included with the SP800-90B Non IID test results for 1 and 8 bit symbols at -10C, 50C and 110C.
 
 A file -filename.txt- contains a sorted by temperature list of the data filenames.
 
@@ -20,6 +20,10 @@ noxor_1bit_statistics.csv
 noxor_8bit_statistics.csv
 noxor_-10C_1bit_90B_Results.txt
 noxor_-10C_8bit_90B_Results.txt
+noxor_50C_1bit_90B_Results.txt
+noxor_50C_8bit_90B_Results.txt
+noxor_110C_1bit_90B_Results.txt
+noxor_110C_8bit_90B_Results.txt
 rawdata_CID-BDX_PROC-noxor_1p0V_0p0C_.bin
 rawdata_CID-BDX_PROC-noxor_1p0V_100p0C_.bin
 rawdata_CID-BDX_PROC-noxor_1p0V_105p0C_.bin
